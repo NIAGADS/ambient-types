@@ -1,0 +1,12 @@
+{
+    "name": "niagads-ambient-types",
+    "version": "0.0.1",
+    "nonNpm": true,
+    "nonNpmDescription": "niagads-ambient-types",
+    "owners": [
+        {
+            "name": "Emily Greenfest-Allen",
+            "githubUsername": "fossilfriend"
+        }
+    ]
+}
